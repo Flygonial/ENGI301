@@ -1,2 +1,2 @@
-# ENGI301
-Samuel Xu (sx19)'s repository for the Rice University undergraduate course ENGI 301.
+<h1>ENGI301</h1>
+Repository for ENGI301 course work
