@@ -47,4 +47,5 @@ while True:
     GPIO.output("USR3", GPIO.HIGH)
     time.sleep(1/10)
     GPIO.output("USR3", GPIO.LOW)
+    
     time.sleep(1/10)
