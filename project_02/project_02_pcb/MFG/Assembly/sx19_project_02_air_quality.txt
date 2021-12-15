@@ -1,0 +1,11 @@
+Partlist exported from C:/Users/rambo/Documents/EAGLE/projects/sx19_project_02_air_quality.sch at 12/15/2021 3:47 AM
+
+Qty Value         Device        Package        Parts                  Description                                                                                                                                 
+2   1k            R_R0603       R0603          R1, R2                 RESISTOR, American symbol                                                                                                                   
+1   AHT10         AHT10         AHT10          B1                     Breakout board for the AHT10 integrated temperature and humidity sensor by Aosong (Asair) Electronics                                       
+1   CCS811        CCS811        CCS811         B2                     CCS811 based a specific layout sold on Amazon. May be discontinued in favor of the Adafruit design.                                         
+3   FIDUCIAL      FIDUCIAL      FIDUCIAL_40MIL FUD1, FUD2, FUD3                                                                                                                                                   
+1   ILI9341       ILI9341       ILI9341        B3                     ILI9341 LCD based on the 2.8" Adafruit product                                                                                              
+4   MOUNTING_HOLE MOUNTING_HOLE MOUNTING_HOLE  MGT1, MGT2, MGT3, MGT4 Chassis Mounting Hole w/GND connection ability                                                                                              
+1   PMS5003       PMS5003       PMS5003        U$1                    Breakout board of the PMS5003 by Plantower and distributed by Adafruit. Connects to the corresponding terminals on the PMS5003 dust sensor. 
+1   POCKETBEAGLE  POCKETBEAGLE  POCKETBEAGLE   U1                                                                                                                                                                 
